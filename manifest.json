@@ -1,0 +1,9 @@
+{
+  "short_name": "Mi Compra",
+  "name": "Lista de la Compra",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FF385C",
+  "background_color": "#ffffff",
+  "icons": []
+}
